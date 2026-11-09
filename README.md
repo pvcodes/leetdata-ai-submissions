@@ -3,10 +3,11 @@
 
 Accepted solutions from [leetdata.ai](https://leetdata.ai), the data engineering practice platform, synced automatically by LeetData Sync.
 
-**10 problems solved** · Easy 1 · Medium 8 · Hard 1
+**11 problems solved** · Easy 1 · Medium 8 · Hard 2
 
 | Problem | Difficulty | Solutions | Solved |
 |---|---|---|---|
+| [Pre-Aggregate Before Join](hard/pre-aggregate-join) | Hard | [SQL](hard/pre-aggregate-join/solution.sql) | 2026-11-09 |
 | [Left Join Nulls](medium/left-join-nulls) | Medium | [SQL](medium/left-join-nulls/solution.sql) | 2026-11-05 |
 | [Avoid Cartesian Product](hard/avoid-cartesian) | Hard | [SQL](hard/avoid-cartesian/solution.sql) | 2026-08-13 |
 | [Clean Product Codes](medium/clean-product-codes) | Medium | [SQL](medium/clean-product-codes/solution.sql) | 2026-08-11 |
